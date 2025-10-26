@@ -1,10 +1,10 @@
-# 👋 Halo, saya ChizkyDev!
+#  Halo, saya ChizkyDev!
 
 Saya seorang pelajar dan pengembang web yang suka membuat website modern, responsif, dan interaktif.
 
 ---
 
-### 🧰 Teknologi yang Saya Gunakan
+###  Teknologi yang Saya Gunakan
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge)
@@ -17,19 +17,19 @@ Saya seorang pelajar dan pengembang web yang suka membuat website modern, respon
 
 ---
 
-### 📘 Sedang Saya Pelajari
+###  Sedang Saya Pelajari
 - Pengembangan **Front-End** dengan *React* dan *Tailwind CSS*  
 - Dasar **Back-End** menggunakan *PHP Laravel* dan *MySQL*  
 - Desain UI/UX menggunakan *Figma*
 
 ---
 
-### 📫 Hubungi Saya
+###  Hubungi Saya
 - 💼 GitHub: [ChizkyDev](https://github.com/ChizkyDev)
 - 🎮 Fakta menarik: Saya suka ngoding, main game, dan bikin proyek kreatif!
 
 ---
 
-### 📊 Statistik GitHub
+###  Statistik GitHub
 ![ChizkyDev's GitHub stats](https://github-readme-stats.vercel.app/api?username=ChizkyDev&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChizkyDev&layout=compact&theme=radical)
